@@ -41,8 +41,8 @@ As of now Stewards are self-selecting and can be added via a pull request. Only 
 
 - Simona Pop ((https://twitter.com/Sim_Pop)
 - Jim Jagielski (https://twitter.com/jimjag)
-- Kames Geraghty (https://twitter.com/kamescg)
 - Alex Masmej (https://twitter.com/AlexMasmej)
+- Kames Geraghty (https://twitter.com/kamescg)
 
 # Sustainabily Growing the One Million Developer Culture
 
